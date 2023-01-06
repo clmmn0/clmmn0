@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **clarissamandadero@gmail.com**
 
-- 📄 Know about my experiences [LinkedIn Profile](https://www.linkedin.com/in/clarissa-mandadero/)
+- 📄 Know about my experiences **[LinkedIn Profile](https://www.linkedin.com/in/clarissa-mandadero/)**
 <!--
 <h3 align="left">Connect with me:</h3>
 <p align="left">
