@@ -3,7 +3,7 @@
 
 - 🔭 I’m taking up **BS Computer Science Major in Software Technology.**
 
-- 🌱 I’m currently learning **skeletal animation using Unity** for my undergraduate thesis.
+<!--- 🌱 I’m currently learning **skeletal animation using Unity** for my undergraduate thesis.-->
 
 - 📫 How to reach me **clarissamandadero@gmail.com**
 
