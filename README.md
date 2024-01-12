@@ -1,11 +1,13 @@
 <h1 align="center">Hi 👋, I'm Clar!</h1>
-<h3 align="center">A 4th year student from De La Salle University - Manila</h3>
+<h3 align="center">A graduating student from De La Salle University - Manila</h3>
 
 - 🔭 I’m taking up **BS Computer Science Major in Software Technology.**
 
 <!--- 🌱 I’m currently learning **skeletal animation using Unity** for my undergraduate thesis.-->
 
 - 📫 How to reach me **clarissamandadero@gmail.com**
+
+- 🖥️ Interests: Software Development, Web Development, and Database Administration
 
 - 📄 Know about my experiences **[LinkedIn Profile](https://www.linkedin.com/in/clarissa-mandadero/)**
 <!--
